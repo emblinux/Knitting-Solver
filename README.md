@@ -3,7 +3,7 @@
 Dieses Projekt stellt eine Webseite zur Verfügung, mit der es dann möglich ist, ein Strickmuster visuell darzustellen.
 
 Beispielmuster
-
+```
 15rM
 15lM
 15rM
@@ -15,8 +15,10 @@ Beispielmuster
 15rM
 15lM
 15rM
+```
 
 Ergebnis:
+```
 ...............
 ...............
 ...............
@@ -28,4 +30,4 @@ Ergebnis:
 ...............
 ...............
 ...............
-
+```
