@@ -31,3 +31,7 @@ Ergebnis:
 ...............
 ...............
 ```
+
+bzw. als Grafik:
+
+![Ergebnis als Grafik](Example.png)
